@@ -1,0 +1,12 @@
+[submodule "pcb/deps/keebio-components"]
+	path = pcb/deps/keebio-components
+	url = https://github.com/keebio/keebio-components
+[submodule "pcb/deps/ProMicroKiCad"]
+	path = pcb/deps/ProMicroKiCad
+	url = https://github.com/Biacco42/ProMicroKiCad
+[submodule "pcb/deps/Keebio-Parts.pretty"]
+	path = pcb/deps/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "pcb/deps/keyboard_parts.pretty"]
+	path = pcb/deps/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty
