@@ -949,6 +949,11 @@
     (uuid feb1824a-e016-4785-a3ba-85827e86dfb6)
   )
 
+  (text "TRRS should go to D0, D1, D2, D3, or E6." (at 186.69 54.61 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
+    (uuid cf8ca8f4-cbfe-4405-83c9-d6fca2f0e85c)
+  )
+
   (global_label "col5" (shape input) (at 227.33 60.96 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0e617081-9004-4951-a5a2-1cde4056d217)
