@@ -14,11 +14,11 @@
 
 // pins of the rows, from top to bottom
 #define MATRIX_ROW_PINS \
-    { C6, B1, B3, B2, B6 }
+    { D4, D6, B3, B2, B6 }
 
 // pins of the columns, from left to right
 #define MATRIX_COL_PINS \
-    { B5, B4, E6, D7, F6, F7 }
+    { D7, E6, B4, B5, F7, B1 }
 
 // COL2ROW or ROW2COL
 // how your matrix is configured
@@ -28,6 +28,8 @@
 // master half is defined to be the right half
 #define MASTER_RIGHT
 
+#define USE_SERIAL
+
 // when using serial, define this
 // one of `D0`, `D1`, `D2`, `D3`, `E6`
-#define SOFT_SERIAL_PIN D0
+#define SOFT_SERIAL_PIN D2
