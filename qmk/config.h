@@ -14,7 +14,7 @@
 
 // pins of the rows, from top to bottom
 #define MATRIX_ROW_PINS \
-    { D4, D6, B3, B2, B6 }
+    { D4, C6, B3, B2, B6 }
 
 // pins of the columns, from left to right
 #define MATRIX_COL_PINS \
